@@ -15,13 +15,13 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*Telco Customer Churn Analysis: This project analyzes customer churn data to identify key factors influencing customer retention.*
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+*Superstore Sales Analysis. The project uses data cleaning, exploratory analysis, and visualization to identify key business insights and support data-driven decision-making., e.g., Creating an interactive sales dashboard in Power BI to identify trends*
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+*Customer Insights Dashboard. An interactive dashboard designed to analyze customer behavior, purchasing patterns, sales performance, and key customer segments*
 
 
 ## 🛠️ Skills
